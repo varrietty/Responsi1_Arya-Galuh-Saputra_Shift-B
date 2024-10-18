@@ -56,7 +56,7 @@
 
 ![Screenshot proses tambah kategori transaksi](docs/proses_tambah_kategori.png)
 
-### d. Hasil Penambahan Kategori Transaksi
+### c. Hasil Penambahan Kategori Transaksi
 
 ![Screenshot popup berhasil tambah kategori transaksi](docs/sukses_tambah_kategori.png)
 ![Screenshot popup gagal tambah kategori transaksi](docs/gagal_tambah_kategori.png)
@@ -90,6 +90,6 @@
 
 ![Screenshot dialog konfirmasi hapus](docs/dialog_hapus.png)
 
-### d. Hasil Penghapusan Kategori Transaksi
+### b. Hasil Penghapusan Kategori Transaksi
 
 ![Screenshot popup berhasil hapus kategori transaksi](docs/sukses_hapus.png)
